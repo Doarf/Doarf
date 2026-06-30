@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="pixel unicorn logo" width="260"/>
+<img src="logo.svg" alt="pixel bonfire logo" width="260"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F9EE0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arthur+Dogotaru;IT+Apprentice+%40+CESI+Nanterre+%C3%97+Simpulse;Computer+Science+%26+Electronics+Enthusiast" alt="Typing SVG" />
 
