@@ -36,17 +36,6 @@ systems work from the hardware up to the software.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Doarf&show_icons=true&theme=default&hide_title=false&count_private=true" alt="Arthur's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doarf&layout=compact&theme=default" alt="Top languages" height="165"/>
-
-</div>
-
-<br/>
-
 ## 📬 Connect with me
 
 <div align="center">
