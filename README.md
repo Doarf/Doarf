@@ -13,7 +13,7 @@ systems work from the hardware up to the software.
 
 </div>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -38,7 +38,7 @@ systems work from the hardware up to the software.
 
 <br/>
 
-## 📬 Connect with me
+## Connect with me
 
 <div align="center">
 
